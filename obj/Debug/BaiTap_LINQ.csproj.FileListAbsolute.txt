@@ -1,0 +1,7 @@
+D:\LTC#\BaiTap_LINQ\bin\Debug\BaiTap_LINQ.exe.config
+D:\LTC#\BaiTap_LINQ\bin\Debug\BaiTap_LINQ.exe
+D:\LTC#\BaiTap_LINQ\bin\Debug\BaiTap_LINQ.pdb
+D:\LTC#\BaiTap_LINQ\obj\Debug\BaiTap_LINQ.csproj.AssemblyReference.cache
+D:\LTC#\BaiTap_LINQ\obj\Debug\BaiTap_LINQ.csproj.CoreCompileInputs.cache
+D:\LTC#\BaiTap_LINQ\obj\Debug\BaiTap_LINQ.exe
+D:\LTC#\BaiTap_LINQ\obj\Debug\BaiTap_LINQ.pdb

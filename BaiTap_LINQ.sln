@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap_LINQ", "BaiTap_LINQ.csproj", "{3D605FD1-B696-4CC8-9330-0A4CA2FBBEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D605FD1-B696-4CC8-9330-0A4CA2FBBEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D605FD1-B696-4CC8-9330-0A4CA2FBBEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D605FD1-B696-4CC8-9330-0A4CA2FBBEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D605FD1-B696-4CC8-9330-0A4CA2FBBEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E891623-C37D-47D4-BCEE-BE353257F762}
+	EndGlobalSection
+EndGlobal
